@@ -1,0 +1,787 @@
+{
+  "replacement_rules": [
+    {
+      "name": "avgndance",
+      "replace_ids": [
+        136721643609083
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\avgndancedot3d.mp3"
+    },
+    {
+      "name": "simp",
+      "replace_ids": [
+        114723189102042
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\SQUIRRELSINMYPANTS.mp3"
+    },
+    {
+      "name": "sponsors",
+      "replace_ids": [
+        123302664878752
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\090 And Now For Today\u2019s Sponsors\u2026!.mp3"
+    },
+    {
+      "name": "imamystery",
+      "replace_ids": [
+        122383548884964
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\I'm_a_Mystery_-_Audio_-_Fortnite.ogg"
+    },
+    {
+      "name": "kotonai",
+      "replace_ids": [
+        109776312685989
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Lunar_Party_-_Emote_-_Fortnite.ogg"
+    },
+    {
+      "name": "mufasa",
+      "replace_ids": [
+        132908681692511
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\FlyHerAcrossTheCountry.mp3"
+    },
+    {
+      "name": "gangnamstyle",
+      "replace_ids": [
+        129180247484814
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Gangnam_Style_-_Emote_-_Fortnite.ogg"
+    },
+    {
+      "name": "crackdown",
+      "replace_ids": [
+        78047651727332
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Crackdown_(Audio)_-_Emote_-_Fortnite.mp3.mpeg"
+    },
+    {
+      "name": "static",
+      "replace_ids": [
+        91058375187161
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\static.mp3"
+    },
+    {
+      "name": "mesmerizer",
+      "replace_ids": [
+        89585812881399
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\mesmerizer.MP3"
+    },
+    {
+      "name": "mainthemepenis",
+      "replace_ids": [
+        121993392708848
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\penis.mp3"
+    },
+    {
+      "name": "companyjig",
+      "replace_ids": [
+        138220186264101
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Boombox Song 5.mp3"
+    },
+    {
+      "name": "jitterbug",
+      "replace_ids": [
+        70920158660119
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\158 The Ol\u2019 Jitterbug.mp3"
+    },
+    {
+      "name": "loopingtherooms",
+      "replace_ids": [
+        138568595654769
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\LoopingTheRoomsWithDCRilo.mp3"
+    },
+    {
+      "name": "squidwardyell",
+      "replace_ids": [
+        114628631127641
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Squidward Yell.mp3"
+    },
+    {
+      "name": "brodyquest",
+      "replace_ids": [
+        95494654380540
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\BrodyquestRegret.mp3"
+    },
+    {
+      "name": "360",
+      "replace_ids": [
+        74543940336879
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\threesixty.MP3"
+    },
+    {
+      "name": "lagtrain",
+      "replace_ids": [
+        75885924747466
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Lagtrain.mp3"
+    },
+    {
+      "name": "cafeteria",
+      "replace_ids": [
+        93790263483000
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Cafeteria.mp3"
+    },
+    {
+      "name": "godzilla",
+      "replace_ids": [
+        106478279229079
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Godzilla.mp3"
+    },
+    {
+      "name": "powerfulmario",
+      "replace_ids": [
+        85571021943763
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\PowerfulMario.mp3"
+    },
+    {
+      "name": "stuck",
+      "replace_ids": [
+        122395338217463
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Stuck_-_Emote_-_Fortnite.ogg"
+    },
+    {
+      "name": "onion",
+      "replace_ids": [
+        130760745901866
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Onion.mp3"
+    },
+    {
+      "name": "metroman",
+      "replace_ids": [
+        93953249207862
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Metroman.mp3"
+    },
+    {
+      "name": "reaper",
+      "replace_ids": [
+        118491709497633
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\ReaperEmoteLoop.mp3.mpeg"
+    },
+    {
+      "name": "oneyplays",
+      "replace_ids": [
+        71285894956243
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\WithFriends.mp3"
+    },
+    {
+      "name": "whisk",
+      "replace_ids": [
+        107984797247293
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\whisk.MP3"
+    },
+    {
+      "name": "hakari",
+      "replace_ids": [
+        90877744248586
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\hakari.MP3"
+    },
+    {
+      "name": "swagsurfin",
+      "replace_ids": [
+        79255971083041
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Swag_Surfin'_(Loop)_-_Emote_-_Fortnite.ogg"
+    },
+    {
+      "name": "timeless",
+      "replace_ids": [
+        112513163352332
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\timeless.MP3"
+    },
+    {
+      "name": "bigshoe",
+      "replace_ids": [
+        129252287509370
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\bigshoe.mp3"
+    },
+    {
+      "name": "orangejustice",
+      "replace_ids": [
+        100304585599072
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Orange_Justice_-_Emote_-_Fortnite.ogg"
+    },
+    {
+      "name": "trueheart",
+      "replace_ids": [
+        83172779015362
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\trueheart.MP3"
+    },
+    {
+      "name": "chickennugget",
+      "replace_ids": [
+        87906445221982
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\chickennuggetdance.MP3"
+    },
+    {
+      "name": "hearmetonight",
+      "replace_ids": [
+        89410081855333
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\hearmetonight.MP3"
+    },
+    {
+      "name": "lockitin",
+      "replace_ids": [
+        121095749550604
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\lockitin.MP3"
+    },
+    {
+      "name": "trogtor",
+      "replace_ids": [
+        101564087773440
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\nightofnights.MP3"
+    },
+    {
+      "name": "takethel",
+      "replace_ids": [
+        103111155660132
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Take_The_L_-_Emote_-_Fortnite.ogg"
+    },
+    {
+      "name": "firework",
+      "replace_ids": [
+        121906945717192
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Firework_(Audio_-_Loop)_-_Emote_-_Fortnite.ogg"
+    },
+    {
+      "name": "backon74",
+      "replace_ids": [
+        96372768786425
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Back_On_74_(Audio)_-_Emote_-_Fortnite.ogg"
+    },
+    {
+      "name": "victorysway",
+      "replace_ids": [
+        116453164879404
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\victorysway.mp3"
+    },
+    {
+      "name": "floss",
+      "replace_ids": [
+        75533012901736
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Floss_-_Emote_-_Fortnite.ogg"
+    },
+    {
+      "name": "hansolo",
+      "replace_ids": [
+        74281970816352
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\hansolo.MP3"
+    },
+    {
+      "name": "hired",
+      "replace_ids": [
+        120813555893672
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Sonic Mania OST - Studiopolis Act 1 - Sonic the Hedgehog.mp3"
+    },
+    {
+      "name": "dropitlikeitshot",
+      "replace_ids": [
+        109779024271919
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\likeitshot.mp3"
+    },
+    {
+      "name": "scenario",
+      "replace_ids": [
+        103876343902233
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\scenario.MP3"
+    },
+    {
+      "name": "torturedance",
+      "replace_ids": [
+        97903697463258
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\torturedance.MP3"
+    },
+    {
+      "name": "chronoshift",
+      "replace_ids": [
+        75824755144287
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\chronoshift.MP3"
+    },
+    {
+      "name": "raincheck",
+      "replace_ids": [
+        86499090248187
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\raincheck.MP3"
+    },
+    {
+      "name": "crabby",
+      "replace_ids": [
+        99205400596459
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Crabby_-_Emote_-_Fortnite.ogg"
+    },
+    {
+      "name": "freestylin",
+      "replace_ids": [
+        122948388966512
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Freestylin'_(Audio)_-_Emote_-_Fortnite.mp3.mpeg"
+    },
+    {
+      "name": "caramelldansen",
+      "replace_ids": [
+        117107818931897
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\caramelldansen.MP3"
+    },
+    {
+      "name": "deadgoat",
+      "replace_ids": [
+        109387379591484
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Petting Zoo Loop - Goat Simulator Soundtrack.mp3"
+    },
+    {
+      "name": "bloodpop",
+      "replace_ids": [
+        110131627209114
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\bloodpop.MP3"
+    },
+    {
+      "name": "ponpon",
+      "replace_ids": [
+        81190249858870
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\ponpon.MP3"
+    },
+    {
+      "name": "subject3",
+      "replace_ids": [
+        83899528940747
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\subject3.MP3"
+    },
+    {
+      "name": "boysaliar",
+      "replace_ids": [
+        74021694276783
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Boy's_a_Liar_-_Emote_-_Fortnite.ogg"
+    },
+    {
+      "name": "desirable",
+      "replace_ids": [
+        127599354880361
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Desirable_(Audio_-_Loop)_-_Emote_-_Fortnite.ogg"
+    },
+    {
+      "name": "hot2go",
+      "replace_ids": [
+        115860861287711
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\hot2go.MP3"
+    },
+    {
+      "name": "saiyanwalk",
+      "replace_ids": [
+        103181941224357
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\saiyanwalk.MP3"
+    },
+    {
+      "name": "smoothslide",
+      "replace_ids": [
+        103798077496723
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Smooth_Slide_(Loop)_-_Emote_-_Fortnite.ogg"
+    },
+    {
+      "name": "caffeinated",
+      "replace_ids": [
+        79179589148050
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Caffeinated_(v32.00_-_Loop)_-_Emote_-_Fortnite.ogg"
+    },
+    {
+      "name": "slick",
+      "replace_ids": [
+        129705916367237
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Slick_-_Emote_-_Fortnite.ogg"
+    },
+    {
+      "name": "funky",
+      "replace_ids": [
+        84459314761999
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\sprunkifunky.mp3"
+    },
+    {
+      "name": "electroshuffle",
+      "replace_ids": [
+        88193165824540
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Electro_Shuffle_(Audio)_-_Emote_-_Fortnite.mp3.mpeg"
+    },
+    {
+      "name": "colin",
+      "replace_ids": [
+        131862564338481
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\98. Open Sesame Tofu!.mp3"
+    },
+    {
+      "name": "mocktail",
+      "replace_ids": [
+        84971444320582
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\mocktail.MP3"
+    },
+    {
+      "name": "burihamachi",
+      "replace_ids": [
+        107736077206715
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\burihamachi.MP3"
+    },
+    {
+      "name": "vegetablejuice",
+      "replace_ids": [
+        84468031218294
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\vegetablejuice.MP3"
+    },
+    {
+      "name": "party",
+      "replace_ids": [
+        129560588987180
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\letspartytaco.MP3"
+    },
+    {
+      "name": "mikulive",
+      "replace_ids": [
+        86211640179820
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Miku_Live_(Audio_-_Loop)_-_Emote_-_Fortnite.ogg"
+    },
+    {
+      "name": "rushinaround",
+      "replace_ids": [
+        125580366363585
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Rushin'_Around_-_Emote_-_Fortnite.ogg"
+    },
+    {
+      "name": "fewthangs",
+      "replace_ids": [
+        70985336469636
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\fewthangs.MP3"
+    },
+    {
+      "name": "ratdance intro",
+      "replace_ids": [
+        101519875665850
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\ratdanceintro.MP3"
+    },
+    {
+      "name": "ratdance loop",
+      "replace_ids": [
+        82942060083668
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\ratdanceloop.MP3"
+    },
+    {
+      "name": "electroswing",
+      "replace_ids": [
+        89784623521303
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Electro_Swing_(Audio)_-_Emote_-_Fortnite.mp3.mpeg"
+    },
+    {
+      "name": "starpower",
+      "replace_ids": [
+        139960445089714
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\starpower.MP3"
+    },
+    {
+      "name": "girling",
+      "replace_ids": [
+        121743117629876
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\girling.MP3"
+    },
+    {
+      "name": "workitout",
+      "replace_ids": [
+        131511740327887
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Work_It_Out_-_Emote_-_Fortnite.ogg"
+    },
+    {
+      "name": "bhop",
+      "replace_ids": [
+        117044997979824
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\bhop.MP3"
+    },
+    {
+      "name": "areyouhappy",
+      "replace_ids": [
+        134112495908412
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\areyouhappy.MP3"
+    },
+    {
+      "name": "whoisyou",
+      "replace_ids": [
+        86752521165521
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\whoisyou.MP3"
+    },
+    {
+      "name": "misstherage",
+      "replace_ids": [
+        103390015333963
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\misstherage.MP3"
+    },
+    {
+      "name": "reflective",
+      "replace_ids": [
+        135813814880600
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\mcdonaldinsanity.MP3"
+    },
+    {
+      "name": "itsudemo",
+      "replace_ids": [
+        127410460406981
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\itsudemo.MP3"
+    },
+    {
+      "name": "tranquility",
+      "replace_ids": [
+        74765594893283
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\15 - Peace and Tranquility.mp3"
+    },
+    {
+      "name": "penguin",
+      "replace_ids": [
+        74434252807612
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\Admin\\Music\\RegretevatorMods\\Club Penguin Music - Dance Club.mp3"
+    }
+  ]
+}
